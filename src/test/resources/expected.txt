@@ -13,3 +13,14 @@ level3 material:20
 level2 material:2
 level1 material:3
 You need to complete 12 times in level4, which is 120 Trailblaze Power
+Do you want to start your next calculator or continue with the current one? (0 for reset, 1 for cumulative, 2 for quit)
+Please input your current level:
+Please input your target level:
+Total exp you need is 5797920
+Based on your existing exp material, you need to collect 3175920 exp
+level3 material:158
+level2 material:3
+level1 material:1
+You need to complete 86 times in level4, which is 860 Trailblaze Power
+Do you want to start your next calculator or continue with the current one? (0 for reset, 1 for cumulative, 2 for quit)
+Thank you for using this calculator!
