@@ -96,9 +96,12 @@ public class ExpCalculator {
     }
 
     public String calculate(int currLevel, int targetLevel, int existLevel3, int existLevel2, int existLevel1, int worldLevel) {
+        StringBuilder sb = new StringBuilder();
         int exp = calculateCharacterExp(currLevel, targetLevel);
+        sb.append("Total exp you need is ").append(exp).append(System.lineSeparator());
         exp = reduceExistExpMaterial(exp, existLevel3, existLevel2, existLevel1);
-        return convertExpToMaterial(exp)  + calculateTimes(exp, worldLevel);
+        sb.append("Based on your existing exp material, you need to collect ").append(exp).append(" exp").append(System.lineSeparator());
+        return sb.append(convertExpToMaterial(exp)  + calculateTimes(exp, worldLevel)).toString();
     }
     public int[] getExpMaterialNum(int currLevel, int targetLevel, int existLevel3, int existLevel2, int existLevel1){
         int exp = calculateCharacterExp(currLevel, targetLevel);

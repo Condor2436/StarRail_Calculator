@@ -1,0 +1,15 @@
+Please input your current level:
+Invalid input, please input again:
+Please input your current level:
+Please input your target level:
+Please input number of EXP material you have:
+Level 1 EXP material:
+Level 2 EXP material:
+Level 3 EXP material:
+Please input the number of world level you have in:
+Total exp you need is 3034920
+Based on your existing exp material, you need to collect 412920 exp
+level3 material:20
+level2 material:2
+level1 material:3
+You need to complete 12 times in level4, which is 120 Trailblaze Power
