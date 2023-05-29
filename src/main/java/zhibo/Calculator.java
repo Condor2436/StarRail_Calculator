@@ -134,7 +134,7 @@ public class Calculator {
     }
 
     public int reduceExistExpMaterial(int exp, int level3, int level2, int level1) {
-        return exp - level3 * LEVEL3_EXP - level2 * LEVEL2_EXP - level1 * LEVEL1_EXP;
+        return Math.max(exp - level3 * LEVEL3_EXP - level2 * LEVEL2_EXP - level1 * LEVEL1_EXP, 0);
     }
 
     public String calculateTimesInString(int exp, int worldLevel) {
