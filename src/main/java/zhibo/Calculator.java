@@ -1,9 +1,5 @@
 package zhibo;
 
-import org.apache.poi.ss.usermodel.*;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
-import java.io.FileInputStream;
 import java.io.IOException;
 
 
@@ -11,11 +7,11 @@ public class Calculator {
     private static final int LEVEL3_EXP = 20000;
     private static final int LEVEL2_EXP = 5000;
     private static final int LEVEL1_EXP = 1000;
-    private final int[] characterUpgradeData;
-    private final int[] expMaterialData;
-    private final int[] expCreditMaterialData;
-    private final int[] creditMaterialData;
-    private final int[][] ascensionData;
+    private final int[] characterUpgradeData = {0, 0, 200, 500, 1000, 1600, 2650, 4320, 6640, 9700, 13560, 18300, 24010, 30740, 38570, 47570, 57810, 69360, 82280, 96640, 112510, 129090, 145930, 163030, 180400, 198040, 215950, 234140, 252620, 271380, 290420, 309760, 329390, 349320, 369540, 390070, 410910, 432050, 453500, 475260, 497340, 519730, 545280, 574420, 607250, 643850, 684320, 728750, 777230, 829860, 886730, 947920, 1013540, 1083670, 1158410, 1237860, 1322100, 1411220, 1505330, 1604520, 1708870, 1815110, 1926940, 2044470, 2167790, 2297000, 2432200, 2573490, 2720970, 2874750, 3034920, 3214180, 3414100, 3635020, 3877280, 4141210, 4427160, 4735460, 5066460, 5420500, 5797920};
+    private final int[] expMaterialData = {0, 18000, 24000, 30000, 37000, 45000};
+    private final int[] expCreditMaterialData = {0, 500, 600, 800, 1000, 1200};
+    private final int[] creditMaterialData = {0, 9500, 12500, 20000, 24000};
+    private final int[][] ascensionData = {{0, 3200, 9600, 22400, 54400, 118400, 246400}, {0, 4000, 12000, 28000, 68000, 148000, 308000}};
     private int cumulativeEXP = 0;
     private int cumulativeCredit = 0;
     private int existLevel3 = 0;
@@ -27,19 +23,6 @@ public class Calculator {
     private boolean isAscension;
 
     public Calculator() throws IOException {
-        FileInputStream characterDataFile = new FileInputStream("src/main/resources/character_upgrade.xlsx");
-        FileInputStream expMaterialDataFile = new FileInputStream("src/main/resources/exp_credit_material.xlsx");
-        Workbook characterWorkbook = new XSSFWorkbook(characterDataFile);
-        Workbook expMaterialWorkbook = new XSSFWorkbook(expMaterialDataFile);
-        characterUpgradeData = new int[81];
-        expMaterialData = new int[6];
-        expCreditMaterialData = new int[6];
-        creditMaterialData = new int[6];
-        ascensionData = new int[2][7];
-        loadCharacterData(characterWorkbook);
-        loadExpAndCreditMaterialData(expMaterialWorkbook);
-        characterDataFile.close();
-        expMaterialDataFile.close();
         isAscension = false;
     }
 
@@ -51,62 +34,6 @@ public class Calculator {
         this.existCredit = existCredit;
         this.star = star;
         this.isAscension = isAscension;
-        FileInputStream characterDataFile = new FileInputStream("src/main/resources/character_upgrade.xlsx");
-        FileInputStream expMaterialDataFile = new FileInputStream("src/main/resources/exp_credit_material.xlsx");
-        Workbook characterWorkbook = new XSSFWorkbook(characterDataFile);
-        Workbook expMaterialWorkbook = new XSSFWorkbook(expMaterialDataFile);
-        characterUpgradeData = new int[81];
-        expMaterialData = new int[6];
-        expCreditMaterialData = new int[6];
-        creditMaterialData = new int[6];
-        ascensionData = new int[2][7];
-        loadCharacterData(characterWorkbook);
-        loadExpAndCreditMaterialData(expMaterialWorkbook);
-        characterDataFile.close();
-        expMaterialDataFile.close();
-    }
-
-    public void loadCharacterData(Workbook workbook) {
-        Sheet sheet = workbook.getSheetAt(0);
-        for (Row row : sheet) {
-            Cell keyCell = row.getCell(0);
-            Cell valueCell = row.getCell(2);
-            if (keyCell != null && valueCell != null) {
-                int key = (int) keyCell.getNumericCellValue();
-                int value = (int) valueCell.getNumericCellValue();
-                characterUpgradeData[key] = value;
-            }
-        }
-        Sheet sheet1 = workbook.getSheetAt(1);
-        int i = 1;
-        for (Row row : sheet1) {
-            Cell star4 = row.getCell(0);
-            Cell star5 = row.getCell(1);
-            if (star4 != null && star5 != null) {
-                ascensionData[0][i] = (int) star4.getNumericCellValue();
-                ascensionData[1][i] = (int) star5.getNumericCellValue();
-                i++;
-            }
-        }
-    }
-
-    public void loadExpAndCreditMaterialData(Workbook workbook) {
-        Sheet sheet = workbook.getSheetAt(0);
-        for (Row row : sheet) {
-            Cell keyCell = row.getCell(0);
-            Cell valueCell = row.getCell(1);
-            Cell expCredit = row.getCell(2);
-            Cell credit = row.getCell(3);
-            if (keyCell != null && valueCell != null) {
-                int key = (int) keyCell.getNumericCellValue();
-                int value = (int) valueCell.getNumericCellValue();
-                int expCreditValue = (int) expCredit.getNumericCellValue();
-                int creditValue = (int) credit.getNumericCellValue();
-                expMaterialData[key] = value;
-                expCreditMaterialData[key] = expCreditValue;
-                creditMaterialData[key] = creditValue;
-            }
-        }
     }
 
     public String convertExpToMaterial(int exp) {
@@ -145,7 +72,7 @@ public class Calculator {
             worldLevel = 4;
         }
         int res = exp % expMaterialData[worldLevel + 1] == 0 ? exp / expMaterialData[worldLevel + 1] : exp / expMaterialData[worldLevel + 1] + 1;
-        return "You need to complete " + res + " times exp material stage in level" + (worldLevel+1) + ", which costs " + res * 10 + " Trailblaze Power" + System.lineSeparator();
+        return "You need to complete " + res + " times exp material stage in level" + (worldLevel + 1) + ", which costs " + res * 10 + " Trailblaze Power" + System.lineSeparator();
     }
 
     public int calculateTimes(int exp, int worldLevel) {
@@ -185,13 +112,13 @@ public class Calculator {
 
     public int calculateCreditTimes(int exp, int currLevel, int targetLevel) {
         int credits = calculateCredit(exp, currLevel, targetLevel);
-        int index = Math.min(worldLevel, 4) + 1;
+        int index = Math.min(worldLevel, 4);
         double res = (double) credits / creditMaterialData[index];
         return (int) Math.ceil(res);
     }
 
     public String calculateCreditTimesInString(int exp, int currLevel, int targetLevel) {
-        return "You need to complete " + calculateCreditTimes(exp, currLevel, targetLevel) + " times credit stage in level" + (worldLevel+1) + ", which costs " + calculateCreditTimes(exp, currLevel, targetLevel) * 10 + " Trailblaze Power"+System.lineSeparator();
+        return "You need to complete " + calculateCreditTimes(exp, currLevel, targetLevel) + " times credit stage in level" + (worldLevel + 1) + ", which costs " + calculateCreditTimes(exp, currLevel, targetLevel) * 10 + " Trailblaze Power" + System.lineSeparator();
     }
 
     public String calculate(int currLevel, int targetLevel, int existLevel3, int existLevel2, int existLevel1, int worldLevel, int existCredit) {
