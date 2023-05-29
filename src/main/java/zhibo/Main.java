@@ -44,7 +44,7 @@ public class Main {
                     isValidInput = true;
                 } catch (NumberFormatException e){
                     System.out.println("Invalid input, please input again:");
-                    System.out.println("Please input your current level:");
+                    System.out.println("Please input your target level:");
                     continue;
                 }
                 targetLevel = Integer.parseInt(nextLine);
@@ -66,13 +66,15 @@ public class Main {
                         isValidInput = true;
                     } catch (NumberFormatException e){
                         System.out.println("Invalid input, please input again:");
-                        System.out.println("Please input your current level:");
+                        System.out.println("Please input number of EXP material you have:");
+                        System.out.println("Level 1 EXP material:");
                         continue;
                     }
                     level1ExpMaterial = Integer.parseInt(nextLine);
                     if(level1ExpMaterial < 0) {
                         System.out.println("Invalid number, please input again:");
                         System.out.println("Remember that the number of EXP material you have should be no less than 0:");
+                        System.out.println("Level 1 EXP material:");
                         isValidInput = false;
                     }
                 }
@@ -85,13 +87,14 @@ public class Main {
                         isValidInput = true;
                     } catch (NumberFormatException e){
                         System.out.println("Invalid input, please input again:");
-                        System.out.println("Please input your current level:");
+                        System.out.println("Level 2 EXP material:");
                         continue;
                     }
                     level2ExpMaterial = Integer.parseInt(nextLine);
                     if(level2ExpMaterial < 0) {
                         System.out.println("Invalid number, please input again:");
                         System.out.println("Remember that the number of EXP material you have should be no less than 0:");
+                        System.out.println("Level 2 EXP material:");
                         isValidInput = false;
                     }
                 }
@@ -104,13 +107,14 @@ public class Main {
                         isValidInput = true;
                     } catch (NumberFormatException e){
                         System.out.println("Invalid input, please input again:");
-                        System.out.println("Please input your current level:");
+                        System.out.println("Level 3 EXP material:");
                         continue;
                     }
                     level3ExpMaterial = Integer.parseInt(nextLine);
                     if(level3ExpMaterial < 0) {
                         System.out.println("Invalid number, please input again:");
                         System.out.println("Remember that the number of EXP material you have should be no less than 0:");
+                        System.out.println("Level 3 EXP material:");
                         isValidInput = false;
                     }
                 }
@@ -123,7 +127,7 @@ public class Main {
                         isValidInput = true;
                     } catch (NumberFormatException e){
                         System.out.println("Invalid input, please input again:");
-                        System.out.println("Please input your current level:");
+                        System.out.println("Please input the number of world level you have in:");
                         continue;
                     }
                     worldLevel = Integer.parseInt(nextLine);
@@ -148,13 +152,14 @@ public class Main {
                     isValidInput = true;
                 } catch (NumberFormatException e){
                     System.out.println("Invalid input, please input again:");
-                    System.out.println("Please input your current level:");
+                    System.out.println("Do you want to start your next calculator or continue with the current one? (0 for reset, 1 for cumulative, 2 for quit)");
                     continue;
                 }
                 status = Integer.parseInt(nextLine);
                 if(status != 0 && status != 1 && status != 2) {
                     System.out.println("Invalid status, please input again:");
                     System.out.println("Remember that your status should be 0 or 1 or 2:");
+                    System.out.println("Do you want to start your next calculator or continue with the current one? (0 for reset, 1 for cumulative, 2 for quit)");
                     isValidInput = false;
                 }
             }

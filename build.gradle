@@ -1,6 +1,8 @@
 plugins {
     id 'java'
     id 'application'
+    id 'idea'
+    id 'com.github.johnrengelman.shadow' version '7.0.0'
 }
 
 tasks.withType(JavaCompile) {
@@ -8,11 +10,11 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-    mainClassName = 'com.zhibo.Main'
+    mainClassName = 'zhibo.Main'
 }
 
 group = 'zhibo'
-version = '1.0-SNAPSHOT'
+version = '1.0'
 
 repositories {
     mavenCentral()
@@ -23,6 +25,12 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter'
     implementation 'org.apache.poi:poi:4.1.2'
     implementation 'org.apache.poi:poi-ooxml:4.1.2'
+}
+
+jar{
+    manifest {
+        attributes 'Main-Class': 'zhibo.Main'
+    }
 }
 
 test {
