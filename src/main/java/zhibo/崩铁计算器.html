@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>崩铁计算器</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+    <div class="title-container">
+        <h1>崩铁计算器</h1>
+        <h2>提交按键默认继承上次结果</h2>
+        <h3>因为经验溢出问题，所以信用点相关的结果可能会有一点点误差</h3>
+    </div>
+    <div id="calculator">
+        <div class="input-container input-container1">
+            <div>
+                <label for="Input 1">现有的漫游指南: </label>
+            </div>
+            <input type="number" id="Input 1" name="level3material">
+        </div>
+        <div class="input-container input-container2">
+            <div>
+                <label for="Input 2">现有的旅行记录: </label>
+            </div>
+            <input type="number" id="Input 2" name="level2material">
+        </div>
+        <div class="input-container input-container3">
+            <div>
+                <label for="Input 3">现有的旅情见闻: </label>
+            </div>
+            <input type="number" id="Input 3" name="level1material">
+        </div>
+        <div class="input-container input-container4">
+            <div>
+                <label for="Input 4">现有的信用点: </label>
+            </div>
+            <input type="number" id="Input 4" name="credit">
+        </div>
+        <div class="input-container select-container1">
+            <div>
+                <label for="balanceLevel">当前均衡等级：</label>
+            </div>
+            <select id="balanceLevel">
+            </select>
+            <script>
+                var select = document.getElementById("balanceLevel");
+                for (var i = 0; i <= 6; i++) {
+                    var option = document.createElement("option");
+                    option.text = i;
+                    option.value = i;
+                    select.appendChild(option);
+                }
+            </script>
+        </div>
+        <div class="input-container select-container2">
+            <div>
+                <label for="currentLevel">当前角色等级：</label>
+            </div>
+            <select id="currentLevel">
+            </select>
+            <script>
+                var select = document.getElementById("currentLevel");
+                for (var i = 1; i <= 80; i++) {
+                    var option = document.createElement("option");
+                    option.text = i;
+                    option.value = i;
+                    select.appendChild(option);
+                }
+            </script>
+        </div>
+        <div class="input-container select-container3">
+            <div>
+                <label for="targetLevel">目标角色等级：</label>
+            </div>
+            <select id="targetLevel">
+            </select>
+            <script>
+                var select = document.getElementById("targetLevel");
+                for (var i = 1; i <= 80; i++) {
+                    var option = document.createElement("option");
+                    option.text = i;
+                    option.value = i;
+                    select.appendChild(option);
+                }
+            </script>
+        </div>
+        <div class="input-container select-container4">
+            <div>
+                <label for="isAscension">是否已经突破：</label>
+            </div>
+            <select id="isAscension">
+                <option value=0>否</option>
+                <option value=1>是</option>
+            </select>
+        </div>
+        <div class="input-container select-container5">
+            <div>
+                <label for="star">角色星级(主角为4级): </label>
+            </div>
+            <select id="star">
+                <option value=4>4</option>
+                <option value=5>5</option>
+            </select>
+        </div>
+        <div class="result-container result-container1">
+            <div>
+                <label for="level3result">需要的漫游指南: </label>
+            </div>
+            <input type="number" id="level3result" name="level3result" readonly>
+        </div>
+        <div class="result-container result-container2">
+            <div>
+                <label for="level2result">需要的旅行记录: </label>
+            </div>
+            <input type="number" id="level2result" name="level2result" readonly>
+        </div>
+        <div class="result-container result-container3">
+            <div>
+                <label for="level1result">需要的旅情见闻: </label>
+            </div>
+            <input type="number" id="level1result" name="level1result" readonly>
+        </div>
+        <div class="result-container result-container4">
+            <div>
+                <label for="creditResult">需要的信用点: </label>
+            </div>
+            <input type="number" id="creditResult" name="creditResult" readonly>
+        </div>
+        <div class="result-container result-container5">
+            <div>
+                <label for="memResult">需要完成回忆之蕾的次数: </label>
+            </div>
+            <input type="number" id="memResult" name="memResult" readonly>
+        </div>
+        <div class="result-container result-container6">
+            <div>
+                <label for="treasureResult1">需要完成藏珍之蕾的次数: </label>
+            </div>
+            <input type="number" id="treasureResult1" name="treasureResult1" readonly>
+        </div>
+        <div class="result-container result-container7">
+            <div>
+                <label for="Trailblaze">需要开拓力总量: </label>
+            </div>
+            <input type="number" id="Trailblaze" name="Trailblaze" readonly>
+        </div>
+        <div class="button-container button-container1">
+            <button id="button1">提交</button>
+        </div>
+
+        <div class="button-container button-container2">
+            <button id="button2">重置</button>
+        </div>
+        <div id="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

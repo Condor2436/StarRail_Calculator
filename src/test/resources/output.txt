@@ -2,6 +2,7 @@ Please input your current level:
 Invalid input, please input again:
 Please input your current level:
 Please input your target level:
+Please enter your character rank:
 Please input number of Credit you have:
 Please input number of EXP material you have:
 Level 1 EXP material:
@@ -16,21 +17,22 @@ level3 material:20
 level2 material:2
 level1 material:3
 You need to complete 10 times exp material stage in level5, which costs 100 Trailblaze Power
-You need to complete 7 times credit stage in level5, which costs 70 Trailblaze Power
+You need to complete 18 times credit stage in level5, which costs 180 Trailblaze Power
 
 Do you want to start your next calculator or continue with the current one? (0 for reset, 1 for cumulative, 2 for quit)
 Please input your current level:
 Do you have ascended your character? (yes/no)
 Please input your target level:
+Please enter your character rank:
 Total exp you need is 5797920
-Totally, you need to collect at least 707792 credits
+Totally, you need to collect at least 739792 credits
 Based on your existing exp material, you need to collect 3175920 exp
-Based on your existing credits and the credit you will gain from the exp material stage, you need to collect 740992 credits
+Based on your existing credits and the credit you will gain from the exp material stage, you need to collect 772992 credits
 level3 material:158
 level2 material:3
 level1 material:1
 You need to complete 71 times exp material stage in level5, which costs 710 Trailblaze Power
-You need to complete 19 times credit stage in level5, which costs 190 Trailblaze Power
+You need to complete 33 times credit stage in level5, which costs 330 Trailblaze Power
 
 Do you want to start your next calculator or continue with the current one? (0 for reset, 1 for cumulative, 2 for quit)
 Thank you for using this calculator!

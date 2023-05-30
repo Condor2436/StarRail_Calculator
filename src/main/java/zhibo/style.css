@@ -1,0 +1,227 @@
+#calculator {
+    margin: 20px;
+}
+
+.title-container {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+    text-align: center;
+    padding: 20px;
+}
+
+input[type="number"],
+button {
+    margin: 5px;
+}
+
+#result {
+    font-weight: bold;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.input-container label {
+    display: inline-block;
+    width: 165px;
+}
+
+.input-container1 {
+    position: absolute;
+    top: 244px;
+    left: 1055px;
+}
+
+.input-container2 {
+    position: absolute;
+    top: 292.8px;
+    left: 1055px;
+}
+
+.input-container3 {
+    position: absolute;
+    top: 341.6px;
+    left: 1055px;
+}
+
+.input-container4 {
+    position: absolute;
+    top: 390.4px;
+    left: 1055px;
+}
+
+.select-container1 {
+    position: absolute;
+    top: 439.2px;
+    left: 1055px;
+    margin-bottom: 10px;
+}
+
+.select-container2 {
+    position: absolute;
+    top: 488px;
+    left: 1055px;
+    margin-bottom: 10px;
+}
+
+.select-container3 {
+    position: absolute;
+    top: 536.8px;
+    left: 1055px;
+    margin-bottom: 10px;
+}
+
+.select-container4 {
+    position: absolute;
+    top: 585.6px;
+    left: 1055px;
+    margin-bottom: 10px;
+}
+
+.select-container5 {
+    position: absolute;
+    top: 634.4px;
+    left: 1055px;
+    margin-bottom: 10px;
+}
+
+input[type="number"] {
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+}
+
+select {
+    width: 200px;
+    height: 30px;
+    font-size: 16px;
+}
+
+.result-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.result-container label {
+    display: inline-block;
+    width: 180px;
+}
+
+.result-container1 {
+    position: absolute;
+    top: 244px;
+    left: 537.6px;
+    margin-bottom: 10px;
+}
+
+.result-container2 {
+    position: absolute;
+    top: 292.8px;
+    left: 537.6px;
+    margin-bottom: 10px;
+}
+
+.result-container3 {
+    position: absolute;
+    top: 341.6px;
+    left: 537.6px;
+    margin-bottom: 10px;
+}
+
+.result-container4 {
+    position: absolute;
+    top: 390.4px;
+    left: 537.6px;
+    margin-bottom: 10px;
+}
+
+.result-container5 {
+    position: absolute;
+    top: 439.2px;
+    left: 537.6px;
+    margin-bottom: 10px;
+}
+
+.result-container6 {
+    position: absolute;
+    top: 488px;
+    left: 537.6px;
+    margin-bottom: 10px;
+}
+
+.result-container7 {
+    position: absolute;
+    top: 536.8px;
+    left: 537.6px;
+    margin-bottom: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container1 {
+    position: absolute;
+    left: 696.3px;
+    top: 800.4px;
+    /* 调整按钮距离底部的距离 */
+}
+
+.button-container2 {
+    position: absolute;
+    left: 896.3px;
+    top: 800.4px;
+    /* 调整按钮距离底部的距离 */
+}
+
+.button-container button {
+    margin: 75px;
+    width: 150px;
+    /* 设置按钮的宽度 */
+    height: 50px;
+    /* 设置按钮的高度 */
+}
+
+/* 媒体查询 */
+@media (max-width: 978px) {
+    .title-container,
+    .input-container1,
+    .input-container2,
+    .input-container3,
+    .input-container4,
+    .select-container1,
+    .select-container2,
+    .select-container3,
+    .select-container4,
+    .select-container5,
+    .result-container1,
+    .result-container2,
+    .result-container3,
+    .result-container4,
+    .result-container5,
+    .result-container6,
+    .result-container7
+    {
+        position: static;
+        margin-left: 20px;
+        /* 调整元素之间的水平间距 */
+        margin-top: 10px;
+        /* 调整元素之间的垂直间距 */
+    }
+    .button-container1,
+    .button-container2 {
+        position: static;
+        margin-left: 0px;
+        /* 调整元素之间的水平间距 */
+        margin-bottom: -100px;
+        /* 调整元素之间的垂直间距 */
+        margin-top: -50px;
+    }
+}

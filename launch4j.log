@@ -1,0 +1,1251 @@
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Substitute:	C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1 = 
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Denv.c:\users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1="" -jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	163/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Substitute:	C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1 = 
+Main class:	zhibo.MainFX
+Add classpath:	C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Denv.c:\users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1="" -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1" zhibo.MainFX
+Args length:	266/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Substitute:	C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1 = 
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Denv.c:\users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1="" -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20" zhibo.MainFX
+Args length:	237/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Substitute:	C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1 = 
+Substitute:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20 = 
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Denv.c:\users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1="" -Denv.e:\hw.and.software\master\ece.651\github\javafx-sdk-20="" -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20" zhibo.MainFX
+Args length:	301/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Substitute:	C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1 = 
+Substitute:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20 = 
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Denv.c:\users\dell\.gradle\caches\modules-2\files-2.1\org.openjfx\javafx-controls\18.0.1="" -Denv.e:\hw.and.software\master\ece.651\github\javafx-sdk-20="" -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20" zhibo.MainFX
+Args length:	301/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	70/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	92/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -jar "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe"
+Args length:	92/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\bin
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib" zhibo.MainFX
+Args length:	170/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Peronsal_project\StarRail_Calculator\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.018.000_002
+Java max ver:	
+Substitute:	JAVA_HOME = E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2
+Substitute:	PATH = E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin
+JRE paths:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;D:\conda;D:\conda\Library\mingw-w64\bin;D:\conda\Library\usr\bin;D:\conda\Library\bin;D:\conda\Scripts;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\bot\CyberWaifu\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;%PATH%;D:\Git\bin;D:\Gradle\gradle-7.6\bin;D:\mingw64\bin;D:\SQL\bin;E:\bot\CyberWaifu1\qqbot\ffmpeg\ffmpeg-6.0-full_build\bin;C:\WINDOWS\System32;C:\WINDOWS\System32\OpenSSH;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\wbem;C:\WINDOWS;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2;;E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib
+Check launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe (OK)
+Check javac:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javac.exe (OK)
+Version string: 1.018.000_002 / 64-Bit (OK)
+Main class:	zhibo.MainFX
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar
+Add classpath:	E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar
+Launcher:	E:\hw_and_software\Master\ECE_651\github\jdk-18.0.2\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -classpath "E:\Peronsal_project\StarRail_Calculator\StarRail_Calculator.exe;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.fxml.jar;E:\hw_and_software\Master\ECE_651\github\javafx-sdk-20\lib\javafx.controls.jar" zhibo.MainFX
+Args length:	265/32768 chars
+Exit code:	0

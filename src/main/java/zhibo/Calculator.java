@@ -10,7 +10,7 @@ public class Calculator {
     private final int[] characterUpgradeData = {0, 0, 200, 500, 1000, 1600, 2650, 4320, 6640, 9700, 13560, 18300, 24010, 30740, 38570, 47570, 57810, 69360, 82280, 96640, 112510, 129090, 145930, 163030, 180400, 198040, 215950, 234140, 252620, 271380, 290420, 309760, 329390, 349320, 369540, 390070, 410910, 432050, 453500, 475260, 497340, 519730, 545280, 574420, 607250, 643850, 684320, 728750, 777230, 829860, 886730, 947920, 1013540, 1083670, 1158410, 1237860, 1322100, 1411220, 1505330, 1604520, 1708870, 1815110, 1926940, 2044470, 2167790, 2297000, 2432200, 2573490, 2720970, 2874750, 3034920, 3214180, 3414100, 3635020, 3877280, 4141210, 4427160, 4735460, 5066460, 5420500, 5797920};
     private final int[] expMaterialData = {0, 18000, 24000, 30000, 37000, 45000};
     private final int[] expCreditMaterialData = {0, 500, 600, 800, 1000, 1200};
-    private final int[] creditMaterialData = {0, 9500, 12500, 20000, 24000};
+    private final int[] creditMaterialData = {0, 9500, 12500,1600, 20000, 24000};
     private final int[][] ascensionData = {{0, 3200, 9600, 22400, 54400, 118400, 246400}, {0, 4000, 12000, 28000, 68000, 148000, 308000}};
     private int cumulativeEXP = 0;
     private int cumulativeCredit = 0;
@@ -107,39 +107,44 @@ public class Calculator {
     }
 
     public int reduceExistCreditAndGainFromExp(int exp) {
-        return cumulativeCredit - existCredit - calculateTimes(exp, worldLevel) * expCreditMaterialData[worldLevel + 1];
+        return Math.max(cumulativeCredit - existCredit - calculateTimes(exp, worldLevel) * expCreditMaterialData[worldLevel + 1], 0);
     }
 
-    public int calculateCreditTimes(int exp, int currLevel, int targetLevel) {
-        int credits = calculateCredit(exp, currLevel, targetLevel);
-        int index = Math.min(worldLevel, 4);
-        double res = (double) credits / creditMaterialData[index];
+    public int calculateCreditTimes(int remainCredit) {
+        int index = Math.min(worldLevel, 4)+1;
+        if(remainCredit <= 0){
+            return 0;
+        }
+        double res = (double) remainCredit / creditMaterialData[index];
         return (int) Math.ceil(res);
     }
 
-    public String calculateCreditTimesInString(int exp, int currLevel, int targetLevel) {
-        return "You need to complete " + calculateCreditTimes(exp, currLevel, targetLevel) + " times credit stage in level" + (worldLevel + 1) + ", which costs " + calculateCreditTimes(exp, currLevel, targetLevel) * 10 + " Trailblaze Power" + System.lineSeparator();
+    public String calculateCreditTimesInString(int remainCredit) {
+        return "You need to complete " + calculateCreditTimes(remainCredit) + " times credit stage in level" + (worldLevel + 1) + ", which costs " + calculateCreditTimes(remainCredit) * 10 + " Trailblaze Power" + System.lineSeparator();
     }
 
-    public String calculate(int currLevel, int targetLevel, int existLevel3, int existLevel2, int existLevel1, int worldLevel, int existCredit) {
+    public String calculate(int currLevel, int targetLevel, int existLevel3, int existLevel2, int existLevel1, int worldLevel, int star, int existCredit) {
         StringBuilder sb = new StringBuilder();
+        this.star = star;
         cumulativeEXP += calculateCharacterExp(currLevel, targetLevel);
         cumulativeCredit += calculateCredit(calculateCharacterExp(currLevel, targetLevel), currLevel, targetLevel);
         this.existLevel1 = existLevel1;
         this.existLevel2 = existLevel2;
         this.existLevel3 = existLevel3;
         this.worldLevel = worldLevel;
+        this.existCredit = existCredit;
         sb.append("Total exp you need is ").append(cumulativeEXP).append(System.lineSeparator());
         sb.append(calculateCreditInString(cumulativeEXP, currLevel, targetLevel)).append(System.lineSeparator());
         int exp = reduceExistExpMaterial(cumulativeEXP, existLevel3, existLevel2, existLevel1);
         int credit = reduceExistCreditAndGainFromExp(exp);
         sb.append("Based on your existing exp material, you need to collect ").append(exp).append(" exp").append(System.lineSeparator());
         sb.append("Based on your existing credits and the credit you will gain from the exp material stage, you need to collect ").append(credit).append(" credits").append(System.lineSeparator());
-        return sb.append(convertExpToMaterial(exp)).append(calculateTimesInString(exp, worldLevel)).append(calculateCreditTimesInString(exp, currLevel, targetLevel)).toString();
+        return sb.append(convertExpToMaterial(exp)).append(calculateTimesInString(exp, worldLevel)).append(calculateCreditTimesInString(credit)).toString();
     }
 
-    public String calculate(int currLevel, int targetLevel) {
+    public String calculate(int currLevel, int targetLevel, int star) {
         StringBuilder sb = new StringBuilder();
+        this.star = star;
         cumulativeEXP += calculateCharacterExp(currLevel, targetLevel);
         cumulativeCredit += calculateCredit(calculateCharacterExp(currLevel, targetLevel), currLevel, targetLevel);
         sb.append("Total exp you need is ").append(cumulativeEXP).append(System.lineSeparator());
@@ -148,7 +153,7 @@ public class Calculator {
         int credit = reduceExistCreditAndGainFromExp(exp);
         sb.append("Based on your existing exp material, you need to collect ").append(exp).append(" exp").append(System.lineSeparator());
         sb.append("Based on your existing credits and the credit you will gain from the exp material stage, you need to collect ").append(credit).append(" credits").append(System.lineSeparator());
-        return sb.append(convertExpToMaterial(exp)).append(calculateTimesInString(exp, worldLevel)).append(calculateCreditTimesInString(exp, currLevel, targetLevel)).toString();
+        return sb.append(convertExpToMaterial(exp)).append(calculateTimesInString(exp, worldLevel)).append(calculateCreditTimesInString(credit)).toString();
     }
 
     public int[] getExpMaterialNum(int currLevel, int targetLevel, int existLevel3, int existLevel2, int existLevel1) {
@@ -187,6 +192,7 @@ public class Calculator {
         worldLevel = 1;
         cumulativeCredit = 0;
         existCredit = 0;
+        star = 4;
     }
 
     public void didAscension() {

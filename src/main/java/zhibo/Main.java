@@ -18,13 +18,15 @@ public class Main {
             int level3ExpMaterial = 0;
             int worldLevel = 0;
             int existCredit = 0;
+            int star = 4;
             calculator.resetAscension();
+
+            String nextLine;
             System.out.println("Please input your current level:");
-            String nextLine = null;
             while (!isValidInput) {
                 nextLine = scanner.nextLine();
                 try {
-                    int temp = Integer.parseInt(nextLine);
+                    Integer.parseInt(nextLine);
                     isValidInput = true;
                 } catch (NumberFormatException e) {
                     System.out.println("Invalid input, please input again:");
@@ -59,7 +61,7 @@ public class Main {
             while (!isValidInput) {
                 nextLine = scanner.nextLine();
                 try {
-                    int temp = Integer.parseInt(nextLine);
+                    Integer.parseInt(nextLine);
                     isValidInput = true;
                 } catch (NumberFormatException e) {
                     System.out.println("Invalid input, please input again:");
@@ -74,20 +76,39 @@ public class Main {
                 }
             }
             isValidInput = false;
+            System.out.println("Please enter your character rank:");
+            while (!isValidInput) {
+                nextLine = scanner.nextLine();
+                try {
+                    Integer.parseInt(nextLine);
+                    isValidInput = true;
+                } catch (NumberFormatException e) {
+                    System.out.println("Invalid input, please input again:");
+                    System.out.println("Please enter your character rank:");
+                    continue;
+                }
+                star = Integer.parseInt(nextLine);
+                if (star < 4 || star > 5) {
+                    System.out.println("Invalid rank, please input again:");
+                    System.out.println("Remember that your character rank should be no less than 4 and no more than 5:");
+                    isValidInput = false;
+                }
+            }
+            isValidInput = false;
             if (status == 0) {
                 calculator.reset();
                 System.out.println("Please input number of Credit you have:");
                 while (!isValidInput) {
                     nextLine = scanner.nextLine();
                     try {
-                        int temp = Integer.parseInt(nextLine);
+                        Integer.parseInt(nextLine);
                         isValidInput = true;
                     } catch (NumberFormatException e) {
                         System.out.println("Invalid input, please input again:");
                         System.out.println("Please input number of Credit you have:");
                     }
                     existCredit = Integer.parseInt(nextLine);
-                    if(existCredit<0){
+                    if (existCredit < 0) {
                         System.out.println("Invalid number, please input again:");
                         System.out.println("Remember that the number of Credit you have should be no less than 0:");
                         isValidInput = false;
@@ -99,7 +120,7 @@ public class Main {
                 while (!isValidInput) {
                     nextLine = scanner.nextLine();
                     try {
-                        int temp = Integer.parseInt(nextLine);
+                        Integer.parseInt(nextLine);
                         isValidInput = true;
                     } catch (NumberFormatException e) {
                         System.out.println("Invalid input, please input again:");
@@ -120,7 +141,7 @@ public class Main {
                 while (!isValidInput) {
                     nextLine = scanner.nextLine();
                     try {
-                        int temp = Integer.parseInt(nextLine);
+                        Integer.parseInt(nextLine);
                         isValidInput = true;
                     } catch (NumberFormatException e) {
                         System.out.println("Invalid input, please input again:");
@@ -140,7 +161,7 @@ public class Main {
                 while (!isValidInput) {
                     nextLine = scanner.nextLine();
                     try {
-                        int temp = Integer.parseInt(nextLine);
+                        Integer.parseInt(nextLine);
                         isValidInput = true;
                     } catch (NumberFormatException e) {
                         System.out.println("Invalid input, please input again:");
@@ -160,7 +181,7 @@ public class Main {
                 while (!isValidInput) {
                     nextLine = scanner.nextLine();
                     try {
-                        int temp = Integer.parseInt(nextLine);
+                        Integer.parseInt(nextLine);
                         isValidInput = true;
                     } catch (NumberFormatException e) {
                         System.out.println("Invalid input, please input again:");
@@ -177,15 +198,15 @@ public class Main {
             }
             isValidInput = false;
             if (status == 0) {
-                System.out.println(calculator.calculate(currentLevel, targetLevel, level1ExpMaterial, level2ExpMaterial, level3ExpMaterial, worldLevel, existCredit));
+                System.out.println(calculator.calculate(currentLevel, targetLevel, level1ExpMaterial, level2ExpMaterial, level3ExpMaterial, worldLevel, star, existCredit));
             } else {
-                System.out.println(calculator.calculate(currentLevel, targetLevel));
+                System.out.println(calculator.calculate(currentLevel, targetLevel, star));
             }
             System.out.println("Do you want to start your next calculator or continue with the current one? (0 for reset, 1 for cumulative, 2 for quit)");
             while (!isValidInput) {
                 nextLine = scanner.nextLine();
                 try {
-                    int temp = Integer.parseInt(nextLine);
+                    Integer.parseInt(nextLine);
                     isValidInput = true;
                 } catch (NumberFormatException e) {
                     System.out.println("Invalid input, please input again:");
