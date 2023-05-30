@@ -1,5 +1,3 @@
 # StarRail_Calculator
 
-Finish EXP and Credit Calculator in backend, it is now a text-based version
-
-TODO: add front end
+A simple calculator that calculate the EXP and credit cost. Open 崩铁计算器.html to use.
